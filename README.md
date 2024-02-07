@@ -19,11 +19,11 @@
 - Develop detailed post campaign reports for all fundraising programs.
 
 **Behavioural Economist @ Fourteenx (_March 2022 - August 2022_)**
- - I joined Fourteenx's behavoral science team to support on :
-   - Client portfolio project management,
-   - Stakeholder engagement, 
-   - Choice-architecture design,
-   - Stakeholder survey design and analysis.
+- I joined Fourteenx's behavoral science team to support on :
+  - Client portfolio project management,
+  - Stakeholder engagement, 
+  - Choice-architecture design,
+  - Stakeholder survey design and analysis.
    
 **Freelance Writer @Livingstone Research (_February 2021 - Frebruary 2022_)**
 - Academic writing on:
