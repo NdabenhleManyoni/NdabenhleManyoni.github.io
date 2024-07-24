@@ -35,5 +35,5 @@
   - Inferential Statistics.
 
 ### Projects 
-- project 1
+- [Project 1](https://github.com/NdabenhleManyoni/Cyclistic-Bike-Share-Case-Study)
 - project 2
