@@ -9,7 +9,7 @@
 - Bcom Economics | University of Fort Hare (_May 2020_)
 
 ### Work Experience
-**Data Analyst @ the University of Johannesburg (_September 2022 - Present_)**
+**Data Analyst @ University of Johannesburg (_September 2022 - Present_)**
 - Ensure best practice is adhered to in terms of data input and management.
 - Regularly monitor acquisition and retention of supporters and report on issues/opportunities.
 - Develop and implement campaign tracking for all fundraising programs including events and individual giving programs.
