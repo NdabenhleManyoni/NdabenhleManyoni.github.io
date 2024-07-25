@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, SQL, STATA, SPSS, MATLAB, FastAPI, Django
 
 ### Education
-- Msc Applied Data Science Student | University of Johannesburg (_on going_)
+- Msc Applied Data Science | University of Johannesburg (_on going_)
 - MCom Econometrics | University of Pretoria (_May 2022_)
 - Hons Econometrics | University of Pretoria (_May 2021_)
 - Bcom Economics | University of Fort Hare (_May 2020_)
