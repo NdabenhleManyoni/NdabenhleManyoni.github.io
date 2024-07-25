@@ -8,7 +8,7 @@
 - Hons Econometrics | University of Pretoria (_May 2021_)
 - Bcom Economics | University of Fort Hare (_May 2020_)
 
-### Cerificication
+### Certification
 - [Google Data Analytics Professional Certification](https://coursera.org/share/ac08e59a9a922694682a3e08659419f2)
 
 ### Work Experience
